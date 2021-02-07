@@ -6,3 +6,6 @@
 - json-server
 - Axios
 - classnames
+
+
+npm start
